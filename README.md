@@ -1,9 +1,12 @@
 # 한국관광공사 면접 대비
 
-## 1. 한국관광공사
+## 한국관광공사의 로드맵
+<p align = 'center'>
+<img src = "https://user-images.githubusercontent.com/72376781/166092735-9146e4ca-e44f-4916-9d1b-c175af4ac4d8.png" width = "600">
+</p>
 
-### 한국관광공사는 어떤 회사인가?
-한국관광공사는 국가 경제발전과 국민복지증진에 기여, 국민경제 발전에 기여를 목적으로 설립된 위탁집행형 준정부기관이다.
+### 1. 설립 목적
+한국관광공사는 관광을 통해 국가경제 발전과 국민복지 증진에 기여하기 위해 설립된 위탁집행형 준정부기관이다.
 
 <img src = "https://user-images.githubusercontent.com/72376781/165888502-7f002c48-da3c-45fd-b8bf-890a935449ed.png" width = "600">
 
